@@ -1450,7 +1450,7 @@ body::after{
     {% if error %}<div class="error">{{ error }}</div>{% endif %}
   </form>
   
-  <div class="foot"><a href="https://t.me/ln_2008" target="_blank" style="color:#29c7d3;text-decoration:none">Developed by VEX </a></div>
+  <div class="foot"><a href="https://t.m/VEX_3V" target="_blank" style="color:#29c7d3;text-decoration:none">Developed by VEX </a></div>
   </div>
 </div>
 </div>
@@ -2141,7 +2141,7 @@ Type a command to begin...
       <div class="mo-card-icon"><i class="fas fa-plug"></i></div>
       <div class="mo-card-label">البورت العام</div>
       <div class="mo-card-value" style="color:#3fb950;font-size:18px">20048</div>
-      <div class="mo-card-sub">http://51.75.118.79:20048</div>
+      <div class="mo-card-sub">https://rdp00-production.up.railway.app/</div>
     </div>
 
   </div>
@@ -2826,7 +2826,7 @@ Type a command to begin...
 </div>
 ''' if is_master else '') + r'''
 
-<div class="foot-pterod"><a href="https://t.me/ln_2008" target="_blank" style="color:#29c7d3;text-decoration:none">Developed by VEX </a></div>
+<div class="foot-pterod"><a href="https://t.me/VEX_3V" target="_blank" style="color:#29c7d3;text-decoration:none">Developed by VEX </a></div>
 </div>
 
 <!-- ===== FILE EDIT MODAL ===== -->
